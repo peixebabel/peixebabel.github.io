@@ -7,12 +7,12 @@ categories: Militares no Governo
 
 Mais um repositório no ar! Dessa vez para produzir alternativas de visualização ao trabalho realizado pelo Movimento Acredito: Militares no Governo.
 
-Este repositório faz referência ao conteúdo apresentado no Peixe Babel:
--- Militares no Governo: Análise de Dados com Python e R: https://youtu.be/GiCmbNzkrbo
+Este repositório faz referência ao conteúdo apresentado no Peixe Babel: <br>
+-- [Militares no Governo: Análise de Dados com Python e R](https://youtu.be/GiCmbNzkrbo)
 
-Visualização original e tratamento de dados realizado pelo "Gabinete compartilhado Acredito":
--- Repositório: https://github.com/gabinete-compartilhado-acredito/militares-no-governo
--- Visualização final: http://xavier.turmadafisica.net/militares_governo.html
+Visualização original e tratamento de dados realizado pelo "Gabinete compartilhado Acredito": <br/>
+-- [Repositório](https://github.com/gabinete-compartilhado-acredito/militares-no-governo)  <br/>
+-- [Visualização final](http://xavier.turmadafisica.net/militares_governo.html) <br/>
 
 <!-- 
 {% highlight ruby %}
@@ -31,7 +31,7 @@ O código que produz este gráfico encontra-se em  [`Militares_no_Governo.ipynb`
 ### Visualização Animada (Gráfico de Áreas)
 O código que produz este gráfico encontra-se em  [`dados_militares.R`](https://github.com/peixebabel/militarizacao-ministerios/blob/main/dados_militares.R)
 
-<div class="embed-container">
+<!-- <div class="embed-container">
   <iframe
       src="https://user-images.githubusercontent.com/22198915/127869730-5df651b8-ff42-4ff0-9fd2-b802f767bf9b.mp4"
       height="360"
@@ -42,7 +42,7 @@ O código que produz este gráfico encontra-se em  [`dados_militares.R`](https:/
       autoplay="false"
       allowfullscreen="true">
   </iframe>
-</div>
+</div> -->
 
 ### Visualização Estática (Gráfico de Áreas)
 O código que produz este gráfico encontra-se em  [`dados_militares.R`](https://github.com/peixebabel/militarizacao-ministerios/blob/main/dados_militares.R)
@@ -51,7 +51,7 @@ O código que produz este gráfico encontra-se em  [`dados_militares.R`](https:/
 
 ### Corrida de Barras (retirado do [Tweet do Meteoro Brasil](https://twitter.com/meteoro_br/status/1414972286868803593) )
 
-<div class="embed-container">
+<!-- <div class="embed-container">
   <iframe
       src="https://user-images.githubusercontent.com/22198915/127868978-8e44cabd-19a3-4e87-82b3-d81a6f8d28d7.mp4"
       height="360"
@@ -62,6 +62,6 @@ O código que produz este gráfico encontra-se em  [`dados_militares.R`](https:/
       autoplay="false"
       allowfullscreen="true">
   </iframe>
-</div>
+</div> -->
 
 
