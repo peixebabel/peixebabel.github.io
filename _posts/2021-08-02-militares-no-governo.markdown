@@ -31,10 +31,10 @@ O código que produz este gráfico encontra-se em  [`Militares_no_Governo.ipynb`
 
 ### Visualização Animada (Gráfico de Áreas)
 O código que produz este gráfico encontra-se em  [`dados_militares.R`](https://github.com/peixebabel/militarizacao-ministerios/blob/main/dados_militares.R)
-
+<!-- "https://user-images.githubusercontent.com/22198915/127869730-5df651b8-ff42-4ff0-9fd2-b802f767bf9b.mp4" -->
 <div class="embed-container">
   <iframe
-      src="https://user-images.githubusercontent.com/22198915/127869730-5df651b8-ff42-4ff0-9fd2-b802f767bf9b.mp4"
+      src="https://www.dropbox.com/s/r51ofh1ssvabdy6/stacked_areas_annotated.mp4" 
       height="360"
       width="640"
       frameborder="0"
