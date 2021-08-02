@@ -33,7 +33,7 @@ twitter_username: canalpeixebabel
 github_username:  peixebabel
 
 minima:
-  date_format: "%-d/%m/%Y"
+  date_format: "%d/%m/%Y"
   
 # Build settings
 theme: minima
