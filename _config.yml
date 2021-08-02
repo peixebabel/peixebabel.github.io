@@ -32,6 +32,7 @@ github_username:  peixebabel
 theme: minima
 plugins:
   - jekyll-feed
+classes: wide
 
 # Exclude from processing.
 # The following items will not be processed, by default.
