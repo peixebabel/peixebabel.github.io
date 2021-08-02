@@ -1,29 +1,44 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Militares no Governo"
 date:   2021-08-02 11:24:13 -0300
-categories: jekyll update
+categories: Militares no Governo
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Mais um repositório no ar! Dessa vez para produzir alternativas de visualização ao trabalho realizado pelo Movimento Acredito: Militares no Governo.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Este repositório faz referência ao conteúdo apresentado no Peixe Babel:
+-- Militares no Governo: Análise de Dados com Python e R: https://youtu.be/GiCmbNzkrbo
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Visualização original e tratamento de dados realizado pelo "Gabinete compartilhado Acredito":
+-- Repositório: https://github.com/gabinete-compartilhado-acredito/militares-no-governo
+-- Visualização final: http://xavier.turmadafisica.net/militares_governo.html
 
-Jekyll also offers powerful support for code snippets:
-
+<!-- 
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+{% endhighlight %} -->
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Visualização Interativa
+O código que produz este gráfico encontra-se em  `Militares_no_Governo.ipynb`
+{{https://raw.githubusercontent.com/peixebabel/peixebabel.github.io/main/graficos/militares_no_governo.html}}
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Visualização Animada (Gráfico de Áreas)
+O código que produz este gráfico encontra-se em  `dados_militares.R`
+
+https://user-images.githubusercontent.com/22198915/127869730-5df651b8-ff42-4ff0-9fd2-b802f767bf9b.mp4
+
+### Visualização Estática (Gráfico de Áreas)
+O código que produz este gráfico encontra-se em  `dados_militares.R`
+
+### Corrida de Barras (retirado do [Tweet do Meteoro Brasil](https://twitter.com/meteoro_br/status/1414972286868803593) )
+
+https://user-images.githubusercontent.com/22198915/127868978-8e44cabd-19a3-4e87-82b3-d81a6f8d28d7.mp4
+
+
+![stacked_areas_annotated](https://user-images.githubusercontent.com/22198915/127873044-24bd7879-2d23-4f6c-9212-2193e7803c9d.png)
+
