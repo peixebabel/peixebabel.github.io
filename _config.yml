@@ -18,13 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: peixebabel.github.io
+title: Peixe Babel
 email: canalpeixebabel@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Transmitindo conhecimento um bit de cada vez!
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://peixebabel.github.io  # the base hostname & protocol for your site, e.g. http://example.com
 domain: peixebabel.github.io
+youtube_username: canalpeixebabel
+instagram_username: canalpeixebabel
 twitter_username: canalpeixebabel
 github_username:  peixebabel
 
@@ -32,7 +34,6 @@ github_username:  peixebabel
 theme: minima
 plugins:
   - jekyll-feed
-classes: wide
 
 # Exclude from processing.
 # The following items will not be processed, by default.
