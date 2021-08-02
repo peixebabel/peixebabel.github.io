@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Militares no Governo"
+description: "Visualizações variadas com dados tratados pelo Movimento Acredito com o percentual de militares que ocupam cargos civis comissionados no governo federal."
 date:   2021-08-02 11:24:13 -0300
 categories: Militares no Governo
 ---
