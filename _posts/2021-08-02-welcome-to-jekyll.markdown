@@ -25,7 +25,8 @@ print_hi('Tom')
 
 ### Visualização Interativa
 O código que produz este gráfico encontra-se em  `Militares_no_Governo.ipynb`
-{{https://raw.githubusercontent.com/peixebabel/peixebabel.github.io/main/graficos/militares_no_governo.html}}
+
+{% include militares_no_governo.html %}
 
 ### Visualização Animada (Gráfico de Áreas)
 O código que produz este gráfico encontra-se em  `dados_militares.R`
